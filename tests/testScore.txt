@@ -1,0 +1,18 @@
+
+# threading:
+------------
+real    2m51.400s
+user    0m1.822s
+sys     0m0.670s
+
+9 exceptions
+
+
+
+# multiprocessing:
+------------------
+real    2m48.575s
+user    0m3.814s
+sys     0m2.735s
+
+7 exceptions
